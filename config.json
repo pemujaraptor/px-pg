@@ -1,0 +1,22 @@
+{
+    "api_id": 28259465,
+    "api_hash": "7fa5c80200a45789ef874973cba5a766",
+    "referral_code": "",
+    "colors": [
+        "#E46E6E",
+        "#E46E6E"
+    ],
+    "auto_upgrade": {
+        "energyLimit": 5,
+        "paintReward": 5,
+        "reChargeSpeed": 5
+    },
+    "countdown": 3600,
+    "time_before_start": [
+        10,
+        230
+    ]
+},
+        230
+    ]
+}
